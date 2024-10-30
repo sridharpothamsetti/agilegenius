@@ -1,0 +1,17 @@
+task_backlog_prioritization:
+  description: >
+    Automate the prioritization of the product backlog using vector search. 
+    The Product Owner will use the vector search tool to retrieve and prioritize backlog items based on business needs.
+  expected_output: "List of prioritized backlog items with rationale."
+
+task_facilitate_meetings:
+  description: >
+    Automate the facilitation of Agile meetings, including stand-ups and retrospectives. 
+    The Scrum Master will summarize the meeting agenda.
+  expected_output: "Agenda and meeting summary with action points."
+
+task_resource_allocation:
+  description: >
+    Automate resource allocation for the project using the vector search tool. 
+    The Project Manager will provide an initial resource allocation plan.
+  expected_output: "Optimized resource allocation plan based on data."

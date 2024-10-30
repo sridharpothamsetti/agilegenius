@@ -1,0 +1,7 @@
+langchain==0.1.5
+databricks-vectorsearch==0.22
+crewai
+openai
+dbtunnel[gradio]
+aiohttp
+typing_extensions --upgrade
